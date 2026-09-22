@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/dougmoscrop/aws-info-node#readme",
   "devDependencies": {
-    "ava": "^1.4.1",
+    "ava": "^8.0.1",
     "aws-sdk": "^2.443.0",
     "chunk": "0.0.2",
     "dread": "^2.0.1",
-    "eslint": "^5.16.0",
+    "eslint": "^10.11.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-node": "^8.0.1",
